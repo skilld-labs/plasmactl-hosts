@@ -1,2 +1,2 @@
-# plasmactl-hosts
-Launchrctl plugin to gets hosts data for ansible inventory
+# plasmactl-nodes
+Launchrctl plugin to gets nodes data for ansible inventory
